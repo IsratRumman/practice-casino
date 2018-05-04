@@ -1,0 +1,115 @@
+body{
+	margin: 0 px;
+	padding: 0 px;
+}
+.wrap{
+	background-color: #00004d;
+	width: 1345px;
+	height:1050px;
+	margin: 10px 5 px 15px 20px;
+	padding: 20px;
+}
+.text-color{
+	color: white;
+}
+
+.bold-font{
+	color: white;
+}
+.middle-part{
+	background-color: red;
+	margin: 5px 5px 21px 5px;
+    min-height: 180px;
+}
+.first-part{
+	background-color: #00bbde;
+}
+.first-menu{
+
+	background-image: url("images/menubutton1.png");
+}
+.position{
+	text-align: center;
+}
+.side-color{
+	color: blue;
+}
+.sidebar-playimage{
+	margin: 140px 30px 10px 40px;  
+}
+.dice-image{
+	 background: url(images/genericaddr.jpg) no-repeat;
+		 background-size: 100%;
+}
+.play-image{
+    margin: 135px 30px 10px 30px;
+   
+}
+
+.menu{
+    background: url(images/menubg.jpg) repeat-x;
+    background-size: 100%;
+    width: 170px;
+    margin: 5px 20px 5px 40px ;
+    padding: 10px 30 10px 0;
+}
+
+.menu-bar{
+    background: url(images/menubg2.jpg) repeat-x;
+    background-size: 100% 100%;
+    margin: 0px 10px 0px 10px ;
+    padding-top: 5px;
+}
+
+.menu-bar-short{
+    min-height: 252px;
+}
+
+.menu-bar-long{
+    min-height: 370px;
+}
+
+.menu-header{
+    background: url(images/menubutton1.jpg) no-repeat;
+    background-size: 100%;
+    margin: 10px 0px 10px 0px;
+    padding: 3px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu-item{
+    background: url(images/menu2button.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin: 9px 0px;
+    color: #fff;
+}
+
+.menu-item a{
+    margin-left: 30px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.download{
+	background-color: #e600e6;
+	padding: 1px 2px 2px 10px;
+   
+}
+.download-image{
+    margin: 10px 20px 10px 15px;
+  
+}
+ .download-position{
+	text-align: center;
+}
+     
+.footer-div {
+	background-color: #00004d;
+	width: 1345px;
+	height:70px;
+	margin: 0 auto;
+	/*padding: 20px;*/
+
+}
